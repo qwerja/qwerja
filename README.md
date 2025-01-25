@@ -12,9 +12,10 @@
 🌐 Internet of Things (IoT)
 🎮 eSports | ⚽ Soccer
 🧠 Continuous Learning
+
 📫 Contact Me:
 ✉️ Email: luccafmarques@gmail.com
-💼 LinkedIn: [linkedin.com/in/luccafmarques](https://www.linkedin.com/in/luccafmarques)
+💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luccafmarques)
 
 -------------------------------------------------------------------------------------------------
 
@@ -32,7 +33,7 @@
 🌐 Internet das Coisas (IoT)
 🎮 eSports | ⚽ Futebol
 🧠 Aprendizado Contínuo
-📫 Entre em contato:
 
+📫 Entre em contato:
 ✉️ Email: luccafmarques@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/luccafmarques
+💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luccafmarques)
