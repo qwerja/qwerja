@@ -8,6 +8,10 @@
 🐍 Python | 🗄️ SQL | 📄 Excel
 🧑‍💻 Oracle
 
+🗣️ Languages:
+
+🇧🇷 Portuguese | 🇺🇸 English | 🇪🇸 Spanish
+
 
 💡 Interests:
 📈 Data Science & Business Intelligence
@@ -33,6 +37,10 @@
 📊 Power BI | 🔍 Qlik Sense
 🐍 Python | 🗄️ SQL | 📄 Excel
 🧑‍💻 Oracle
+
+
+🗣️ Idiomas:
+🇧🇷 Portuguse | 🇺🇸 English | 🇪🇸 Spanish
 
 
 💡 Interesses:
