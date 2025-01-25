@@ -13,10 +13,11 @@
 🎮 eSports | ⚽ Soccer
 🧠 Continuous Learning
 📫 Contact Me:
------------------------------------------------------------------------------------------------------
-
 ✉️ Email: luccafmarques@gmail.com
-💼 LinkedIn: linkedin.com/in/luccafmarques
+💼 LinkedIn: [linkedin.com/in/luccafmarques](https://www.linkedin.com/in/luccafmarques)
+
+-------------------------------------------------------------------------------------------------
+
 🌟 Olá, Mundo! Sou Lucca Ferreira Marques
 🇧🇷 Analista de Dados / Business Intelligence Brasileiro
 🎓 Formado em Banco de Dados | Cursando Ciência de Dados | 5/8 períodos de Matemática concluídos
@@ -34,4 +35,4 @@
 📫 Entre em contato:
 
 ✉️ Email: luccafmarques@gmail.com
-💼 LinkedIn: linkedin.com/in/luccafmarques
+💼 LinkedIn: https://www.linkedin.com/in/luccafmarques
