@@ -22,7 +22,7 @@
 
 📫 Contact Me:
 
-✉️ Email: luccafmarques@gmail.com
+✉️ Email: contato@lmdados.com.br
 
 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luccafmarques)
 
@@ -52,7 +52,7 @@
 
 📫 Entre em contato:
 
-✉️ Email: luccafmarques@gmail.com
+✉️ Email: contato@lmdados.com.br
 
 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luccafmarques)
 
