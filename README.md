@@ -55,3 +55,12 @@
 ✉️ Email: luccafmarques@gmail.com
 
 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luccafmarques)
+
+-------------------------------------------------------------------------------------------------
+Imagens do projeto que desenvolvi para o cliente Instituto Luciane Prado.
+
+
+![Faturamento desfocado2](https://github.com/user-attachments/assets/50c8cb0e-fff3-4392-b88a-a5a53c2ab0aa)
+
+![Tipo desfocado](https://github.com/user-attachments/assets/a0b5a6d7-c283-4f2d-ada2-290c3cb67843)
+
